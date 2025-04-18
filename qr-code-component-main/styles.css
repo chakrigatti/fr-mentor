@@ -2,3 +2,26 @@ body{
     background-color: hsl(212, 45%, 89%);
     margin: 0px;
 }
+
+.qr-card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.qr-card{
+    width: 270px;
+    height: 420px;
+    background-color: white;
+    border-radius: 15px;
+    padding:10px;
+}
+
+.qr-img-container{
+}
+
+.qr-image{
+    height: 270px;
+    width: 270px;
+    border-radius: 10px;
+}
